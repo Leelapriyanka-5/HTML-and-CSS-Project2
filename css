@@ -1,0 +1,46 @@
+.card{
+    width:300px;
+    height:300px;
+    color:black;
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align:center;
+    margin:10px;
+}
+.container1{
+    display: flex;
+    gap:40px;
+    padding:40px;
+
+}
+.container2{
+    display: flex;
+    gap:40px;
+    padding:40px;
+}
+#unique{
+    color:white;
+    background-color: blue;
+}
+#first{
+    color:white;
+    background-color: blueviolet;
+}
+#second{
+    color: white;
+    background-color: purple;
+}
+#third{
+    color:white;
+    background-color: red;
+}
+#fourth{
+    background-color:chartreuse;
+}
+button{
+    width:100px;
+    height:50px;
+    color:white;
+    background: linear-gradient(blue,red);
+}
